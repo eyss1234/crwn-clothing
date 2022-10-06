@@ -6,6 +6,8 @@ https://fastidious-cajeta-780cc6.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This exercise is based on [Zero to Mastery Academy](https://zerotomastery.io/) course
+
 ## Available Scripts
 
 In the project directory, you can run:
